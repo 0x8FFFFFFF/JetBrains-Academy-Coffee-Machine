@@ -1,6 +1,6 @@
 # JetBrains Academy
 # Project: Coffee Machine
-# Stage 5/6
+# Stage 6/6
 
 
 class Coffee:
